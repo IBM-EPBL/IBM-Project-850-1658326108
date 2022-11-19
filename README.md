@@ -1,5 +1,8 @@
 
 #  <img src="https://media3.giphy.com/media/hu71BNaU36l1g1zFgL/giphy.gif?cid=ecf05e47kxm4xej1ehqju6ckhku4yzs45w10nzu4vtt75ofa&rid=giphy.gif&ct=s" width="30px"> Real-Time River Water Quality Monitoring and Control System
+ <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/gogulkrish/readmetemp/blob/master/images/IBM_logo.svg.png" alt="Logo" width="320" height="128">
+  </a>
 - TECHNOLOGY : IOT
 <p align="center">
 <a href="https://www.ibm.com/in-en">
