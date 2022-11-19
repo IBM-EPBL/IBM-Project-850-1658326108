@@ -1,6 +1,20 @@
 
 #  <img src="https://media3.giphy.com/media/hu71BNaU36l1g1zFgL/giphy.gif?cid=ecf05e47kxm4xej1ehqju6ckhku4yzs45w10nzu4vtt75ofa&rid=giphy.gif&ct=s" width="30px"> Real-Time River Water Quality Monitoring and Control System
 - TECHNOLOGY : IOT
+<p align="center">
+<a href="https://www.ibm.com/in-en">
+<img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
+</a>
+<a href="https://www.python.org/g">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
+  </a>
+   <a href="https://www.ibm.com/cloud">
+      <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
+  </a>
+  <a href="https://rodered.org/">
+    <img src="https://user-images.githubusercontent.com/113123610/196036498-ae63bf96-c781-4319-b156-d90982d12aa2.png" width =50>
+   </a>
+</p>
 
 # 📒 PROJECT DESCRIPTION
 To develop a system for real time quality assessment for river water health at residential places using Arduino,ESP32. 
