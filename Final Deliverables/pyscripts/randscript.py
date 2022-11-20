@@ -10,7 +10,7 @@ def run():
     ORG ="q6sux6"
     DEVICE_TYPE ="ESP32"
     DEVICE_ID ="GokulEsp32"
-    TOKEN ="gp5PA9!jfw7jf9cV-g" 
+    TOKEN ="##############" 
 
     server = ORG + ".messaging.internetofthings.ibmcloud.com";
     pubTopic1 = "iot-2/evt/temp/fmt/json"
